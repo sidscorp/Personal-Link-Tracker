@@ -1,0 +1,14 @@
+# Ignore the .streamlit folder
+.streamlit/
+
+# Ignore the .venv folder
+.venv/
+
+# Ignore Jupyter notebooks
+*.ipynb
+
+# Ignore zip files
+*.zip
+
+# Ignore .env files
+.env
