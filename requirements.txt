@@ -1,0 +1,9 @@
+streamlit
+processors
+beautifulsoup4
+newspaper3k
+PyMuPdf
+python-dotenv
+google-generativeai
+requests
+supabase
